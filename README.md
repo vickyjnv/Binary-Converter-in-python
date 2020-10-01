@@ -1,4 +1,4 @@
-# PythonBinaryConverter
+# Python number system converter (BinaryConverter)
 Convert a decimal to the binary or convert a binary to the decimal. Writing in python is open source and published with GNU 3.0.
 <br>
 <H1>How to use?</H1>
