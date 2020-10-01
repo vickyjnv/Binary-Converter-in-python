@@ -1,2 +1,8 @@
-# Binary-Converter-in-python
-The Binary converter In Python is a simple project developed using Python. The project contains a base conversion system. The user can enter any number and convert them to other number systems (decimal to binary, binary to decimal).
+# PythonBinaryConverter
+Convert a decimal to the binary or convert a binary to the decimal. Writing in python is open source and published with GNU 3.0.
+<br>
+<H1>How to use?</H1>
+1)Run 'BinCalculator.py'<br>
+2)Select an operation for convertion<br>
+And that is all.
+
